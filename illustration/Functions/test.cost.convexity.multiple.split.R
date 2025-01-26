@@ -21,7 +21,7 @@
 # is "no".
 #
 #
-#     Shirong Zhao    20 Novermber 2023      DUFE Dalian
+#     Shirong Zhao    20 November 2023      DUFE Dalian
 #
 #########################################################################
 
