@@ -34,7 +34,7 @@
 #     data, i.e., the number of observations.  In such cases, one should
 #     explore dimension-reduction possibilities.
 #
-#     Shirong Zhao    20 Novermber 2023      DUFE Dalian
+#     Shirong Zhao    20 November 2023      DUFE Dalian
 #
 #########################################################################
 #
