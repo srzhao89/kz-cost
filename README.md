@@ -1,5 +1,5 @@
-# kz-cost
-Testing convexity for cost function
+# Testing convexity for cost function
+
 
 Here we attach the codes used in the following paper:
 
